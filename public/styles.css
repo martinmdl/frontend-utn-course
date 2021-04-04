@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 16px;
+    font-family: arial;
+}
+
+.productos_img{
+    width: 200px;
+    height: 200px;
+}
+
+.footer_img{
+    width: 35px;
+    height: 35px;
+}
