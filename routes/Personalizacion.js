@@ -1,9 +1,9 @@
-const express = require('express');
+/* const express = require('express');
 const nodemailer = require('nodemailer');
 const router = express.Router();
 require('dotenv').config();
 
-/* router.get('/', function (req, res) {
+router.get('/', function (req, res) {
     res.render('personalizacion.ejs')
 })
 
@@ -70,7 +70,7 @@ router.post('/', function (req, res) {
     }
         }
     validacion()  
-}) */
+}) 
 
 
 
@@ -99,3 +99,4 @@ transporter.sendMail(mailOptions, function(err, data) {
 });
 
 module.exports = router;
+*/
