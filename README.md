@@ -12,12 +12,9 @@ If you have any feedback, please reach out to me at martinmdl42@gmail.com
 
 ## ⚙ Features
 
-Recursos usados:
-- MongoDB (Base de datos)
-- Dotenv (Ocultar contraseñas)
-- Nodemailer (Enviar emails)
+- MongoDB
+- Dotenv
+- Nodemailer
 
-Problemas:
-- Nodemailer no funciona desde el form
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinmdl/)
