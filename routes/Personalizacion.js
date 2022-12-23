@@ -1,4 +1,4 @@
-/* const express = require('express');
+const express = require('express');
 const nodemailer = require('nodemailer');
 const router = express.Router();
 require('dotenv').config();
@@ -99,4 +99,3 @@ transporter.sendMail(mailOptions, function(err, data) {
 });
 
 module.exports = router;
-*/
