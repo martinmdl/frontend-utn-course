@@ -1,11 +1,17 @@
 # Astral Print
 
-Astral Print es un emprendimiento de impresiones 3d que todavia esta en desarrollo. Este sitio podria llegar a ser una pagina de ventas propia de la marca.
+## 📃 Description
 
-Recursos usados:
-- MongoDB (Base de datos)
-- Dotenv (Ocultar contraseñas)
-- Nodemailer (Enviar emails)
+[*Astral Print*](https://astralprint.herokuapp.com/) is a beta of a 3d printing online shop. This site is intended to be this brand sales website.
+This web app was developed as a final project of a three months course in UTN (Universidad Tecnológica Nacional).
+If you have any feedback, please reach out to me at martinmdl42@gmail.com
 
-Problemas:
-- Nodemailer no funciona desde el form
+## 👨‍💻 Authors
+
+- Martín Michael De Lojo ([GitHub](https://www.github.com/martinmdl) - [LinkedIn](https://www.linkedin.com/in/martinmdl/))
+
+## ⚙ Features
+
+- MongoDB
+- Dotenv
+- Nodemailer
