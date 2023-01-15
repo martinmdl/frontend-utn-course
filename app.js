@@ -16,11 +16,11 @@ app.use('/productos', require('./routes/Productos'));
 app.use(require('./routes/Personalizacion'));
 
 app.use((req, res, next) => {
-    res.status(404).render("404")
+    res.status(404).render("404");
+    next(new Error('404 not found'));
 })
 
 app.listen(port, () => {
-    console.log('Puerto:', port)
+    console.log('Server listening on port:', port);
+    initDB();
 })
-
-initDB();
