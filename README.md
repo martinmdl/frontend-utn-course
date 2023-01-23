@@ -1,4 +1,4 @@
-# Astral Print
+# AstralPrint
 
 ## 📃 Description
 
