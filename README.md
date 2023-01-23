@@ -12,6 +12,8 @@ If you have any feedback, please reach out to me at martinmdl42@gmail.com
 
 ## ⚙ Features
 
+- NodeJS
+- Express
 - MongoDB
 - Dotenv
 - Nodemailer
