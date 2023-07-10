@@ -12,8 +12,11 @@ If you have any feedback, please reach out to me at martinmdl42@gmail.com
 
 ## ⚙ Features
 
-- NodeJS
 - Express
 - MongoDB
 - Dotenv
 - Nodemailer
+
+## Certificate
+
+<img src="https://github.com/martinmdl/frontend-utn-course/assets/78437578/ceb5bea6-3961-4650-8deb-953c675f330e" />
